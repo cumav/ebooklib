@@ -1,0 +1,21 @@
+[Script Info]
+Title: Generated ASS File
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 360
+PlayResY: 640
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Subtitile,Arial Black,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
+Style: Translation,Arial Black,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,100,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.88,Subtitile,,0,0,0,,{\fad(300,300)}{\t(0,395,\1c&H0000FF&)\t(395,441,\1c&HFFFFFF&)}Paano{\r} {\t(441,499,\1c&H0000FF&)\t(499,534,\1c&HFFFFFF&)}mo{\r} {\t(534,1068,\1c&H0000FF&)\t(1068,1115,\1c&HFFFFFF&)}sasabihin{\r} {\t(1115,1207,\1c&H0000FF&)\t(1207,1231,\1c&HFFFFFF&)}ang{\r} {\t(1231,1927,\1c&H0000FF&)\t(1927,1962,\1c&HFFFFFF&)}'Pakiusap'{\r} {\t(1962,2067,\1c&H0000FF&)\t(2067,2125,\1c&HFFFFFF&)}sa{\r} {\t(2125,2879,\1c&H0000FF&)\t(2879,2880,\1c&HFFFFFF&)}Aleman?{\r}
+Dialogue: 0,0:00:02.93,0:00:03.76,Subtitile,,0,0,0,,{\fad(300,300)}{\t(0,835,\1c&H0000FF&)\t(835,836,\1c&HFFFFFF&)}Bitte{\r}
+Dialogue: 0,0:00:02.93,0:00:03.76,Translation,,0,0,0,,{\fad(300,300)}Pakiusap
+Dialogue: 0,0:00:03.79,0:00:08.48,Subtitile,,0,0,0,,{\fad(300,300)}{\t(0,580,\1c&H0000FF&)\t(580,615,\1c&HFFFFFF&)}Sinabi{\r} {\t(615,916,\1c&H0000FF&)\t(916,1068,\1c&HFFFFFF&)}niya,{\r} {\t(1068,1961,\1c&H0000FF&)\t(1961,2136,\1c&HFFFFFF&)}'Pakiusap,{\r} {\t(2136,2553,\1c&H0000FF&)\t(2553,2612,\1c&HFFFFFF&)}tulungan{\r} {\t(2612,2694,\1c&H0000FF&)\t(2694,2752,\1c&HFFFFFF&)}mo{\r} {\t(2752,2995,\1c&H0000FF&)\t(2995,3065,\1c&HFFFFFF&)}ako{\r} {\t(3065,3170,\1c&H0000FF&)\t(3170,3216,\1c&HFFFFFF&)}sa{\r} {\t(3216,3460,\1c&H0000FF&)\t(3460,3505,\1c&HFFFFFF&)}aking{\r} {\t(3505,4690,\1c&H0000FF&)\t(4690,4691,\1c&HFFFFFF&)}takdang-aralin.'{\r}
